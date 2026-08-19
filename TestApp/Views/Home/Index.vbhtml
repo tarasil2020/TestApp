@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "Home Page"
+    ViewData("Title") = "Home Page test app"
 End Code
 
 <div class="jumbotron">
@@ -10,7 +10,7 @@ End Code
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2>Getting started v2</h2>
         <p>
             ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
             enables a clean separation of concerns and gives you full control over markup
